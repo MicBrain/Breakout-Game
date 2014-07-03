@@ -126,7 +126,7 @@
 (define (derive-sum exp var)
   (make-sum (derive (addend exp) var) (derive (augend exp) var)))
 
-;;; Q6.
+
 
 (define (test-q6)
   (assert-equal 'y (derive '(* x y) 'x))
