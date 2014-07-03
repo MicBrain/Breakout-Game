@@ -1,5 +1,4 @@
 ;;;  Name: Rafayel Mkrtchyan
-;;;  Email: rafamian@berkeley.edu
 
 
 (define (assert-equal v1 v2)
