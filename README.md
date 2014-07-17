@@ -4,7 +4,6 @@
 
 
 
-C C++ C# Objective-C Ruby PHP
 
 Python, Java, Scheme, HTML
 
