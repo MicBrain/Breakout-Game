@@ -4,7 +4,3 @@
 
 
 
-
-Python, Java, Scheme, HTML
-
-
