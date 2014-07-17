@@ -7,4 +7,4 @@
 
    In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. When a brick is hit, the ball bounces away and the brick is destroyed. The player loses a turn when the ball touches the bottom of the screen. To prevent this from happening, the player has a movable paddle to bounce the ball upward, keeping it in play.
 
-   Breakout, a discrete logic (non-microprocessor) game, was designed by Nolan Bushnell, Steve Wozniak, and Steve Bristow, all three who were involved with Atari and its Kee Games subsidiary.
+   Breakout, a discrete logic (non-microprocessor) game, was designed by Nolan Bushnell, Steve Wozniak, and Steve Bristow, all three who were involved with Atari and its Kee Games subsidiary. Bushnell was certain the game would be popular.
