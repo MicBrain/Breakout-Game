@@ -3,7 +3,6 @@
 
 
 
-Python Java JavaScript Scheme HTML CSS
 
 Other languages that will be in this list in the futere:
 
