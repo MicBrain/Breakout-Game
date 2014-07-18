@@ -9,4 +9,4 @@
 
    Breakout, a discrete logic (non-microprocessor) game, was designed by Nolan Bushnell, Steve Wozniak, and Steve Bristow, all three who were involved with Atari and its Kee Games subsidiary. Bushnell was certain the game would be popular. The original arcade version of Breakout has been officially ported to several systems, such as Video Pinball, the Atari 5200 (included in Super Breakout), and the Atari 2600. After few month from the creation of the game Breakout became one of the most popular arcade games during that time.
 
-   Since the original release of Breakout, there have been many clones and updates for various platforms, known as "Breakout clones." Many unofficial variations of Breakout were created for home computer platforms such as Apple II Plus, TRS-80 and PC.
+   Since the original release of Breakout, there have been many clones and updates for various platforms, known as "Breakout clones." Many unofficial variations of Breakout were created for home computer platforms such as Apple II Plus, TRS-80 and PC. A version of the game called Little Brick Out was included on the DOS 3.2 System 
