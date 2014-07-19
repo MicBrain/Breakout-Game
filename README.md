@@ -14,6 +14,6 @@
    This program is a sample version of "Breakout" very similar to the original version of the game. To play the game run the file called game.py in Python's interactive shell. Pygame module is the most important part of this project. Before running
 the project make sure that you have installed that module. You can download the module from this website: http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame . Installing pygame module is easy and does not require any specific knowledge.
 
-### R
+### Refe
 
 
