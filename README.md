@@ -1,5 +1,5 @@
 # Breakout Game
-==================================================================================================================================
+================================================================================================================================
 
 ### Description
 
@@ -15,4 +15,6 @@
 the project make sure that you have installed that module. You can download the module from this website: http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame . Installing pygame module is easy and does not require any specific knowledge.
 
 ### References
+
+1.
 
